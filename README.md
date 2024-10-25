@@ -1,9 +1,10 @@
 # MIT-6.824-DistributedSystem-2021-Golang
 
-## 实现
-稳定通过 6.824 lab 所有的测试，并尽可能的提升了代码可读性。
+## Implementation
 
-## 文档
+Stably passed all 6.824 lab tests and improved code readability as much as possible.
+
+## Documentation
 - [x] [Lab1](docs/lab1.md)
 - [x] [Lab2](docs/lab2.md)
 - [x] [Lab3](docs/lab3.md)
