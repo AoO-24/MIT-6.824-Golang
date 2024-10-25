@@ -12,5 +12,6 @@ Stably passed all 6.824 lab tests and improved code readability as much as possi
     - [x] [Challenge1](docs/lab4.md)
     - [x] [Challenge2](docs/lab4.md)
 
-## 注意
-不保证绝对的 bug-free，但每个 lab 均测试 500 次以上，无一 fail。
+## Notice
+Absolute bug-free is not guaranteed, but each lab has tested more than 500 times without fail.
+
